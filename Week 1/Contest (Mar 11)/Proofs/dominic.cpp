@@ -19,7 +19,7 @@ int main() {
   unordered_set<string> dict;
   for (int i = 1; i <= n; i++) {
     getline(cin, s);
-    vector<string> line = split(s);
+    auto line = split(s);
     bool arrow = false;
     for (string &curr : line) {
       if (curr == "->") {

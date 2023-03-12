@@ -21,7 +21,7 @@ int main() {
     getline(cin, s);
     auto line = split(s);
     bool arrow = false;
-    for (string &curr : line) {
+    for (auto &curr : line) {
       if (curr == "->") {
         arrow = true;
         continue;

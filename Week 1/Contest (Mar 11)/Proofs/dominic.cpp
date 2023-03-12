@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-inline vector<string> split(const string& s) {
+inline auto split(const string& s) {
   stringstream ss(s);
   vector<string> res;
   for (string w; ss >> w;) res.push_back(w);

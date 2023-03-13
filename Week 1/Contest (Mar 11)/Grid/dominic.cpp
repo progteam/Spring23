@@ -50,7 +50,7 @@ int main() {
       grid[curr.first][curr.second] = -1;
     }
 
-    q = newQ;
+    swap(q, newQ);
     res++;
   }
 

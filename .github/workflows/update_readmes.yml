@@ -17,6 +17,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.PAT }}
+          fetch-depth: 0 # Fetch all all history for all branches and tags
 
       - uses: actions/setup-python@v4
         with:

@@ -1,4 +1,3 @@
-
 # CSUMB Programming Team SPR23
 
 Share your solutions with the Programming Team and earn points!

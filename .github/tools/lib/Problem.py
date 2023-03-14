@@ -14,7 +14,7 @@ class Problem:
     def gen_readme(self):
         pathlib.Path(self.path).mkdir(parents=True, exist_ok=True)
         open(os.path.join(self.path, "README.md"), "w").write(f"""\
-# [{self.problem_name}](#{self.link})
+# [{self.problem_name}]({self.link})
 - Difficulty: {self.difficulty} ({self.point} pt)
         """)
 

@@ -1,4 +1,4 @@
-name: Update Scoreboards
+name: Update READMEs
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  update-scoreboards:
+  update-readmes:
     runs-on: ubuntu-latest
 
     permissions:
@@ -18,8 +18,15 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.PAT }}
 
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      - run: "pip install -r ./.github/tools/requirements.txt"
+      - run: "./.github/tools/generate_problem_readmes.py"
       - run: "./.github/tools/generate_repo_readme.py"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "[Auto Commit] Update Scoreboards"
+          commit_message: "[Auto Commit] Update README.md"

@@ -1,0 +1,33 @@
+points:
+  easy: 1
+  medium: 3
+  hard: 10
+
+problems:
+  easy:
+
+    - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
+      link: https://open.kattis.com/problems/knotknowledge
+    
+  medium:
+    - path: "Week 1/Contest (Mar 11)/Grid"
+      link: https://open.kattis.com/problems/grid
+
+    - path: "Week 1/Contest (Mar 11)/Proofs"
+      link: https://open.kattis.com/problems/proofs
+    
+    - path: "Week 1/Contest (Mar 11)/Restaurant Opening"
+      link: https://open.kattis.com/problems/restaurantopening
+
+    - path: "Week 1/Contest (Mar 11)/Bishops"
+      link: https://open.kattis.com/problems/bishops
+
+    - path: "Week 1/Contest (Mar 11)/Left and Right"
+      link: https://open.kattis.com/problems/leftandright
+
+    - path: "Week 1/Contest (Mar 11)/Secret Message"
+      link: https://open.kattis.com/problems/secretmessage
+
+  hard:
+    - path: "Week 1/Contest (Mar 11)/Road To Savings"
+      link: https://open.kattis.com/problems/roadtosavings

@@ -8,6 +8,9 @@ problems:
 
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
       link: https://open.kattis.com/problems/knotknowledge
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/2011: Final Value of Variable After Performing Operations"
+      link: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
     
   medium:
     - path: "Week 1/Contest (Mar 11)/Grid"

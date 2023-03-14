@@ -29,8 +29,14 @@ problems:
       
     - path: "Week 1/Weekly Practice Problems (Week 1)/2469: Convert the Temperature"
       link: https://leetcode.com/problems/convert-the-temperature/
+      
+    - path: "Week 1/Extra Practice Problems (Week 1)/0496: Next Greater Element I"
+      link: https://leetcode.com/problems/next-greater-element-i/
     
   medium:
+    - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"
+      link: https://leetcode.com/problems/next-greater-element-ii/
+  
     - path: "Week 1/Contest (Mar 11)/Grid"
       link: https://open.kattis.com/problems/grid
 

@@ -11,6 +11,24 @@ problems:
       
     - path: "Week 1/Weekly Practice Problems (Week 1)/2011: Final Value of Variable After Performing Operations"
       link: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/1572: Matrix Diagonal Sum"
+      link: https://leetcode.com/problems/matrix-diagonal-sum/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/412: Fizz Buzz"
+      link: https://leetcode.com/problems/fizz-buzz/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/1528: Shuffle String"
+      link: https://leetcode.com/problems/shuffle-string/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/2413: Smallest Even Multiple"
+      link: https://leetcode.com/problems/smallest-even-multiple/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/2485: Find the Pivot Integer"
+      link: https://leetcode.com/problems/find-the-pivot-integer/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/2469: Convert the Temperature"
+      link: https://leetcode.com/problems/convert-the-temperature/
     
   medium:
     - path: "Week 1/Contest (Mar 11)/Grid"

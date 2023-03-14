@@ -2,6 +2,8 @@ import yaml
 import os
 from . import settings
 import pathlib
+from glob import glob
+import subprocess
 
 class Problem:
     def __init__(self, difficulty, point, content):
@@ -10,6 +12,17 @@ class Problem:
         self.path = os.path.join(settings.PROJECT_ROOT, content["path"])
         self.link = content["link"]
         self.problem_name = self.path.split("/")[-1]
+    
+    # Return Git authors who created non .md files in the problem dir (and its
+    # creation timestamp)
+    def get_solution_details(self):
+        res = {}
+        for file in glob(os.path.join(self.path, "*[!.md]")):
+            p1 = subprocess.Popen(["git", "log", "--reverse", "--format='%an %ct'", file], stdout=subprocess.PIPE)
+            p2 = subprocess.Popen(["head", "-1"], stdin=p1.stdout, stdout=subprocess.PIPE)
+            author, timestamp = p2.communicate()[0].decode("utf-8")[1:-2].split()
+            res[author] = min(int(timestamp), res[author] if author in res else float('inf'))
+        return res
 
     def gen_readme(self):
         pathlib.Path(self.path).mkdir(parents=True, exist_ok=True)

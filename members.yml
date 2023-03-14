@@ -1,0 +1,15 @@
+ranks:
+  - apprentice
+  - specialist
+
+members:
+  specialist:
+    - name: Dominic Sagen
+      github: DominicS99
+
+  apprentice:
+    - name: Example A
+      github: example_a
+
+    - name: Example B
+      github: example_b

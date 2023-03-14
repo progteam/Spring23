@@ -7,7 +7,11 @@ Share your solutions with the Programming Team and earn points!
 - Solve a Hard Problem: 10 pt
 
 ### ✨ Weekly Scoreboard ✨
-🚧 Under construction ...
+| |Apprentice|Points|Specialist|Points|
+|-------|-------|-------|-------|-------|
+|🥇| | |Dominic Sagen|19|
 
 ### 🏁 Overall Scoreboard 🏁
-🚧 Under construction ... 
+| |Apprentice|Points|Specialist|Points|
+|-------|-------|-------|-------|-------|
+|🥇| | |Dominic Sagen|19|

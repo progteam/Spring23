@@ -15,7 +15,7 @@ problems:
     - path: "Week 1/Weekly Practice Problems (Week 1)/1572: Matrix Diagonal Sum"
       link: https://leetcode.com/problems/matrix-diagonal-sum/
       
-    - path: "Week 1/Weekly Practice Problems (Week 1)/412: Fizz Buzz"
+    - path: "Week 1/Weekly Practice Problems (Week 1)/0412: Fizz Buzz"
       link: https://leetcode.com/problems/fizz-buzz/
       
     - path: "Week 1/Weekly Practice Problems (Week 1)/1528: Shuffle String"

@@ -9,9 +9,9 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇| | |Dominic Sagen|19|
+|🥇| | |Dominic Sagen|29|
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇| | |Dominic Sagen|19|
+|🥇| | |Dominic Sagen|29|

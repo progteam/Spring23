@@ -1,3 +1,3 @@
 # [1572: Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
-- Difficulty: easy (1 pt)
+- Difficulty: easy (2 pt)
         

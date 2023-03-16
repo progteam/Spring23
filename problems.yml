@@ -1,28 +1,30 @@
 points:
-  easy: 1
-  medium: 3
-  hard: 10
+  trivial: 1
+  easy: 2
+  medium: 6
+  hard: 20
+  advanced: 75
 
 problems:
-  easy:
-
-    - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
-      link: https://open.kattis.com/problems/knotknowledge
-      
+  trivial:
     - path: "Week 1/Weekly Practice Problems (Week 1)/2011: Final Value of Variable After Performing Operations"
       link: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
-      
-    - path: "Week 1/Weekly Practice Problems (Week 1)/1572: Matrix Diagonal Sum"
-      link: https://leetcode.com/problems/matrix-diagonal-sum/
       
     - path: "Week 1/Weekly Practice Problems (Week 1)/0412: Fizz Buzz"
       link: https://leetcode.com/problems/fizz-buzz/
       
-    - path: "Week 1/Weekly Practice Problems (Week 1)/1528: Shuffle String"
-      link: https://leetcode.com/problems/shuffle-string/
-      
     - path: "Week 1/Weekly Practice Problems (Week 1)/2413: Smallest Even Multiple"
       link: https://leetcode.com/problems/smallest-even-multiple/
+  
+  easy:
+    - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
+      link: https://open.kattis.com/problems/knotknowledge
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/1572: Matrix Diagonal Sum"
+      link: https://leetcode.com/problems/matrix-diagonal-sum/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/1528: Shuffle String"
+      link: https://leetcode.com/problems/shuffle-string/
       
     - path: "Week 1/Weekly Practice Problems (Week 1)/2485: Find the Pivot Integer"
       link: https://leetcode.com/problems/find-the-pivot-integer/
@@ -58,3 +60,6 @@ problems:
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"
       link: https://open.kattis.com/problems/roadtosavings
+      
+  advanced:
+  

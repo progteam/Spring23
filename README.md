@@ -2,9 +2,11 @@
 
 Share your solutions with the Programming Team and earn points!
 
-- Solve an Easy problem: 1 pt
-- Solve a Medium problem: 3 pt
-- Solve a Hard Problem: 10 pt
+- Solve a Trivial problem: 1 pt
+- Solve an Easy problem: 2 pt
+- Solve a Medium problem: 6 pt
+- Solve a Hard Problem: 20 pt
+- Solve an Advanced Problem: 75 pt
 
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|

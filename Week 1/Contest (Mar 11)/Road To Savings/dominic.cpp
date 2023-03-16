@@ -48,17 +48,18 @@ int main() {
   }
 
   // Backtrace using min dest info
+  queue<pii> q;
   LL res = 0;
-  pq.emplace(dist[e], e);
-  while (!pq.empty()) {
-    auto [d, i] = pq.top();
-    pq.pop();
+  q.emplace(dist[e], e);
+  while (!q.empty()) {
+    auto [d, i] = q.front();
+    q.pop();
     if (i == s) continue;
 
     for (auto &[j, w] : graph[i]) {
       if (dist[j] != dist[i]-w) continue;
       res += w;
-      pq.emplace(dist[j], j);
+      q.emplace(dist[j], j);
     }
   }
 

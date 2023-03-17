@@ -13,7 +13,7 @@ Share your solutions with the Programming Team and earn points!
 |-------|-------|-------|-------|-------|
 |🥇|Mohammad Haroon|1|Dominic Sagen|58|
 |🥈|Anshu Patil|1|Jaden Keller|6|
-|🥉| | |Judah Silva|2|
+|🥉|Joshua Rivera|1|Judah Silva|2|
 |4| | |Yuki Okamoto|1|
 |5| | |Delight Lee|1|
 
@@ -22,6 +22,6 @@ Share your solutions with the Programming Team and earn points!
 |-------|-------|-------|-------|-------|
 |🥇|Mohammad Haroon|1|Dominic Sagen|58|
 |🥈|Anshu Patil|1|Jaden Keller|6|
-|🥉| | |Judah Silva|2|
+|🥉|Joshua Rivera|1|Judah Silva|2|
 |4| | |Yuki Okamoto|1|
 |5| | |Delight Lee|1|

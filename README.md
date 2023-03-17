@@ -13,8 +13,8 @@ Share your solutions with the Programming Team and earn points!
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|28|Dominic Sagen|58|
 |🥈|Joshua Rivera|4|Jaden Keller|6|
-|🥉|Mohammad Haroon|1|Judah Silva|2|
-|4|Anshu Patil|1|Yuki Okamoto|1|
+|🥉|Anshu Patil|2|Judah Silva|2|
+|4|Mohammad Haroon|1|Yuki Okamoto|1|
 |5| | |Delight Lee|1|
 
 ### 🏁 Overall Scoreboard 🏁
@@ -22,6 +22,6 @@ Share your solutions with the Programming Team and earn points!
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|28|Dominic Sagen|58|
 |🥈|Joshua Rivera|4|Jaden Keller|6|
-|🥉|Mohammad Haroon|1|Judah Silva|2|
-|4|Anshu Patil|1|Yuki Okamoto|1|
+|🥉|Anshu Patil|2|Judah Silva|2|
+|4|Mohammad Haroon|1|Yuki Okamoto|1|
 |5| | |Delight Lee|1|

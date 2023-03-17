@@ -11,7 +11,7 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇| | |Dominic Sagen|58|
+|🥇|Mohammad Haroon|1|Dominic Sagen|58|
 |🥈| | |Jaden Keller|6|
 |🥉| | |Judah Silva|1|
 |4| | |Yuki Okamoto|1|
@@ -19,7 +19,7 @@ Share your solutions with the Programming Team and earn points!
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇| | |Dominic Sagen|58|
+|🥇|Mohammad Haroon|1|Dominic Sagen|58|
 |🥈| | |Jaden Keller|6|
 |🥉| | |Judah Silva|1|
 |4| | |Yuki Okamoto|1|

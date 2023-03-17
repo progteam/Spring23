@@ -12,18 +12,18 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|28|Dominic Sagen|58|
-|🥈|Joshua Rivera|6|Jaden Keller|6|
-|🥉|Alfredo Gunn|5|Yuki Okamoto|3|
-|4|Anshu Patil|5|Judah Silva|3|
-|5|Mohammad Haroon|3|Rafael L.S. Reis|2|
+|🥈|Anshu Patil|7|Jaden Keller|6|
+|🥉|Joshua Rivera|6|Yuki Okamoto|3|
+|4|Alfredo Gunn|5|Judah Silva|3|
+|5|Mohammad Haroon|3|Delight Lee|3|
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|28|Dominic Sagen|58|
-|🥈|Joshua Rivera|6|Jaden Keller|6|
-|🥉|Alfredo Gunn|5|Yuki Okamoto|3|
-|4|Anshu Patil|5|Judah Silva|3|
-|5|Mohammad Haroon|3|Rafael L.S. Reis|2|
-|6|Bryanna Dormer|3|Delight Lee|2|
+|🥈|Anshu Patil|7|Jaden Keller|6|
+|🥉|Joshua Rivera|6|Yuki Okamoto|3|
+|4|Alfredo Gunn|5|Judah Silva|3|
+|5|Mohammad Haroon|3|Delight Lee|3|
+|6|Bryanna Dormer|3|Rafael L.S. Reis|2|
 |7|Samuel Scott|2| | |

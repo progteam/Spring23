@@ -6,7 +6,10 @@ members:
   specialist:
     - name: Dominic Sagen
       github: DominicS99
-
+    
+    - name: Jaden Keller
+      github: JadenKeller
+       
   apprentice:
     - name: Example A
       github: example_a

@@ -14,13 +14,13 @@ members:
       github: Judah-Silva
       
     - name: Yuki Okamoto
-      github:  Yuki Okamoto # YukiOkamoto0206
+      github: YukiOkamoto0206
       
     - name: Rafael L.S. Reis
       github: Sirraff
       
     - name: Delight Lee
-      github: Delight Lee # delightgit
+      github: delightgit
        
   apprentice:
     - name: Bryanna Dormer
@@ -30,7 +30,7 @@ members:
       github: BitCrusader
       
     - name: Anshu Patil
-      github: An. Patil # mimzowich
+      github: mimzowich
       
     - name: Joshua Rivera
       github: JoshRivera209

@@ -15,6 +15,12 @@ members:
       
     - name: Yuki Okamoto
       github:  Yuki Okamoto # YukiOkamoto0206
+      
+    - name: Rafael L.S. Reis
+      github: Sirraff
+      
+    - name: Delight Lee
+      github: delightgit
        
   apprentice:
     - name: Example A

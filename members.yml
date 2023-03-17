@@ -14,7 +14,7 @@ members:
       github: Judah-Silva
       
     - name: Yuki Okamoto
-      github:  Yuki Okamoto # YukiOkamoto0206
+      github: YukiOkamoto0206
       
     - name: Rafael L.S. Reis
       github: Sirraff
@@ -23,8 +23,23 @@ members:
       github: delightgit
        
   apprentice:
-    - name: Example A
-      github: example_a
+    - name: Bryanna Dormer
+      github: BreeBreeBreeBree
 
-    - name: Example B
-      github: example_b
+    - name: Elijah Kramer
+      github: BitCrusader
+      
+    - name: Anshu Patil
+      github: mimzowich
+      
+    - name: Joshua Rivera
+      github: JoshRivera209
+      
+    - name: Alfredo Gunn
+      github: 96gunna
+      
+    - name: Mohammad Haroon
+      github: haroon73
+      
+    - name: Samuel Scott
+      github: sascott9655

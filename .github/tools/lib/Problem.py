@@ -20,7 +20,10 @@ class Problem:
         for file in glob(os.path.join(self.path, "*[!.md]")):
             p1 = subprocess.Popen(["git", "log", "--reverse", "--format='%an %ct'", file], stdout=subprocess.PIPE)
             p2 = subprocess.Popen(["head", "-1"], stdin=p1.stdout, stdout=subprocess.PIPE)
-            author, timestamp = p2.communicate()[0].decode("utf-8")[1:-2].split()
+            log = p2.communicate()[0].decode("utf-8")[1:-2]
+            toks = log.split()
+            author = ' '.join(toks[:-1])
+            timestamp = toks[-1]
             res[author] = min(int(timestamp), res[author] if author in res else float('inf'))
         return res
 

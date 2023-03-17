@@ -12,5 +12,4 @@ class Solution:
                 c =c            
             s = "% s" % c
             list.append(s)
-            
-        return list    
+        return list 

@@ -9,6 +9,9 @@ members:
     
     - name: Jaden Keller
       github: JadenKeller
+      
+    - name: Judah Silva
+      github: Judah-Silva
        
   apprentice:
     - name: Example A

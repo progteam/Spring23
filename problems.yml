@@ -15,6 +15,15 @@ problems:
       
     - path: "Week 1/Weekly Practice Problems (Week 1)/2413: Smallest Even Multiple"
       link: https://leetcode.com/problems/smallest-even-multiple/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/2235: Add Two Integers"
+      link: https://leetcode.com/problems/add-two-integers/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/0709: To Lower Case"
+      link: https://leetcode.com/problems/to-lower-case/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/1929. Concatenation of Array"
+      link: https://leetcode.com/problems/concatenation-of-array/
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
@@ -31,6 +40,12 @@ problems:
       
     - path: "Week 1/Weekly Practice Problems (Week 1)/2469: Convert the Temperature"
       link: https://leetcode.com/problems/convert-the-temperature/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/2114: Maximum Number of Words Found in Sentences"
+      link: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+      
+    - path: "Week 1/Weekly Practice Problems (Week 1)/1365: How Many Numbers Are Smaller Than the Current Number"
+      link: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
       
     - path: "Week 1/Extra Practice Problems (Week 1)/0496: Next Greater Element I"
       link: https://leetcode.com/problems/next-greater-element-i/

@@ -15,7 +15,7 @@ Share your solutions with the Programming Team and earn points!
 |🥈|Joshua Rivera|5|Jaden Keller|6|
 |🥉|Mohammad Haroon|3|Yuki Okamoto|3|
 |4|Bryanna Dormer|3|Rafael L.S. Reis|2|
-|5|Anshu Patil|3|Judah Silva|2|
+|5|Alfredo Gunn|3|Judah Silva|2|
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
@@ -24,5 +24,5 @@ Share your solutions with the Programming Team and earn points!
 |🥈|Joshua Rivera|5|Jaden Keller|6|
 |🥉|Mohammad Haroon|3|Yuki Okamoto|3|
 |4|Bryanna Dormer|3|Rafael L.S. Reis|2|
-|5|Anshu Patil|3|Judah Silva|2|
-|6|Alfredo Gunn|1|Delight Lee|2|
+|5|Alfredo Gunn|3|Judah Silva|2|
+|6|Anshu Patil|3|Delight Lee|2|

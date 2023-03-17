@@ -11,17 +11,17 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Mohammad Haroon|1|Dominic Sagen|58|
-|🥈|Anshu Patil|1|Jaden Keller|6|
-|🥉|Joshua Rivera|1|Judah Silva|2|
+|🥇|Joshua Rivera|2|Dominic Sagen|58|
+|🥈|Mohammad Haroon|1|Jaden Keller|6|
+|🥉|Anshu Patil|1|Judah Silva|2|
 |4| | |Yuki Okamoto|1|
 |5| | |Delight Lee|1|
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Mohammad Haroon|1|Dominic Sagen|58|
-|🥈|Anshu Patil|1|Jaden Keller|6|
-|🥉|Joshua Rivera|1|Judah Silva|2|
+|🥇|Joshua Rivera|2|Dominic Sagen|58|
+|🥈|Mohammad Haroon|1|Jaden Keller|6|
+|🥉|Anshu Patil|1|Judah Silva|2|
 |4| | |Yuki Okamoto|1|
 |5| | |Delight Lee|1|

@@ -12,8 +12,10 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇| | |Dominic Sagen|58|
+|🥈| | |Jaden Keller|6|
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇| | |Dominic Sagen|58|
+|🥈| | |Jaden Keller|6|

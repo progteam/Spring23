@@ -25,3 +25,4 @@ Share your solutions with the Programming Team and earn points!
 |🥉|Anshu Patil|2|Judah Silva|2|
 |4|Mohammad Haroon|1|Yuki Okamoto|1|
 |5|Alfredo Gunn|1|Delight Lee|1|
+|6|Bryanna Dormer|1| | |

@@ -18,12 +18,11 @@ class Problem:
     def get_solution_details(self):
         res = {}
         for file in glob(os.path.join(self.path, "*[!.md]")):
-            p1 = subprocess.Popen(["git", "log", "--reverse", "--format='%an %ct'", file], stdout=subprocess.PIPE)
+            p1 = subprocess.Popen(["git", "log", "--reverse", "--format='%al %ct'", file], stdout=subprocess.PIPE)
             p2 = subprocess.Popen(["head", "-1"], stdin=p1.stdout, stdout=subprocess.PIPE)
             log = p2.communicate()[0].decode("utf-8")[1:-2]
-            toks = log.split()
-            author = ' '.join(toks[:-1])
-            timestamp = toks[-1]
+            author, timestamp = log.split()
+            author = author.split('+')[-1]
             res[author] = min(int(timestamp), res[author] if author in res else float('inf'))
         return res
 

@@ -12,7 +12,7 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|28|Dominic Sagen|84|
-|🥈|Anshu Patil|13|Rafael L.S. Reis|11|
+|🥈|Anshu Patil|13|Rafael L.S. Reis|12|
 |🥉|Alfredo Gunn|10|Judah Silva|7|
 |4|Joshua Rivera|9|Jaden Keller|6|
 |5|Bryanna Dormer|4|Yuki Okamoto|3|
@@ -21,7 +21,7 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|28|Dominic Sagen|84|
-|🥈|Anshu Patil|13|Rafael L.S. Reis|11|
+|🥈|Anshu Patil|13|Rafael L.S. Reis|12|
 |🥉|Alfredo Gunn|10|Judah Silva|7|
 |4|Joshua Rivera|9|Jaden Keller|6|
 |5|Bryanna Dormer|4|Yuki Okamoto|3|

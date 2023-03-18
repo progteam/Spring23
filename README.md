@@ -26,4 +26,4 @@ Share your solutions with the Programming Team and earn points!
 |4|Joshua Rivera|7|Yuki Okamoto|3|
 |5|Bryanna Dormer|4|Judah Silva|3|
 |6|Mohammad Haroon|3|Delight Lee|3|
-|7|Samuel Scott|2| | |
+|7|Samuel Scott|3| | |

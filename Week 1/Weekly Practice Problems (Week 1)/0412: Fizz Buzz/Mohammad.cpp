@@ -15,10 +15,7 @@ public:
 
         }
         else{
-            stringstream s;
-            s << i;
-            string str = s.str();
-            v.push_back(str);
+            v.push_back(to_string(i));
         }
         }
         return v;

@@ -11,9 +11,10 @@ public:
             s.push(x);
         }
 
-        vector<int> res;
-        for (auto &x : nums1) {
-            res.push_back(m.count(x) ? m[x] : -1);
+        int n = nums1.size();
+        vector<int> res(n);
+        for (int i = 0; i < n; i++) {
+            res[i] = (m.count(nums[i]) ? m[nums[i]] : -1);
         }
 
         return res;

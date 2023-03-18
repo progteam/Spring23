@@ -25,5 +25,5 @@ Share your solutions with the Programming Team and earn points!
 |🥉|Alfredo Gunn|8|Rafael L.S. Reis|5|
 |4|Joshua Rivera|7|Yuki Okamoto|3|
 |5|Bryanna Dormer|4|Judah Silva|3|
-|6|Mohammad Haroon|3|Delight Lee|3|
-|7|Samuel Scott|3| | |
+|6|Samuel Scott|4|Delight Lee|3|
+|7|Mohammad Haroon|3| | |

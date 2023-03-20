@@ -25,7 +25,7 @@ Share your solutions with the Programming Team and earn points!
 
 ### ✨ Weekly Scoreboard ✨
 {scoreboard.display(
-    timestamp_start=time.mktime((today - datetime.timedelta(days=today.weekday()+2)).timetuple()),
+    timestamp_start=time.mktime((today - datetime.timedelta(days=today.weekday())).timetuple()),
     timestamp_end=None,
     max_rows=5)}
 

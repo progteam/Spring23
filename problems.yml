@@ -27,6 +27,9 @@ problems:
       
     - path: "Week 2/Contest (Mar 18)/N-Sum"
       link: https://open.kattis.com/problems/nsum
+      
+    - path: "Week 2/Contest (Mar 18)/Blueberry Waffle"
+      link: https://open.kattis.com/problems/blueberrywaffle
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
@@ -52,6 +55,21 @@ problems:
       
     - path: "Week 1/Extra Practice Problems (Week 1)/0496: Next Greater Element I"
       link: https://leetcode.com/problems/next-greater-element-i/
+      
+    - path: "Week 2/Contest (Mar 18)/Joint Jog Jam"
+      link: https://open.kattis.com/problems/jointjogjam
+      
+    - path: "Week 2/Contest (Mar 18)/Identifying Map Tiles"
+      link: https://open.kattis.com/problems/maptiles2
+      
+    - path: "Week 2/Contest (Mar 18)/Even Up Solitaire"
+      link: https://open.kattis.com/problems/evenup
+      
+    - path: "Week 2/Contest (Mar 18)/Pig Latin"
+      link: https://open.kattis.com/problems/piglatin
+      
+    - path: "Week 2/Contest (Mar 18)/Okvir"
+      link: https://open.kattis.com/problems/okvir
     
   medium:
     - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"
@@ -80,6 +98,12 @@ problems:
       
     - path: "Week 2/Contest (Mar 18)/Best Compromise"
       link: https://open.kattis.com/problems/compromise
+      
+    - path: "Week 2/Contest (Mar 18)/Geppetto"
+      link: https://open.kattis.com/problems/geppetto
+      
+    - path: "Week 2/Contest (Mar 18)/Anthony and Diablo"
+      link: https://open.kattis.com/problems/anthonyanddiablo
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"
@@ -87,3 +111,6 @@ problems:
       
     - path: "Week 2/Contest (Mar 18)/Association of Cats and Magical Lights"
       link: https://open.kattis.com/problems/magicallights
+      
+    - path: "Week 2/Contest (Mar 18)/Rock Climbing"
+      link: https://open.kattis.com/problems/rockclimbing

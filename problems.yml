@@ -24,6 +24,9 @@ problems:
       
     - path: "Week 1/Weekly Practice Problems (Week 1)/1929. Concatenation of Array"
       link: https://leetcode.com/problems/concatenation-of-array/
+      
+    - path: "Week 2/Contest (Mar 18)/N-Sum"
+      link: https://open.kattis.com/problems/nsum
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
@@ -71,7 +74,16 @@ problems:
 
     - path: "Week 1/Contest (Mar 11)/Secret Message"
       link: https://open.kattis.com/problems/secretmessage
+      
+    - path: "Week 2/Contest (Mar 18)/Tour De France"
+      link: https://open.kattis.com/problems/tourdefrance
+      
+    - path: "Week 2/Contest (Mar 18)/Best Compromise"
+      link: https://open.kattis.com/problems/compromise
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"
       link: https://open.kattis.com/problems/roadtosavings
+      
+    - path: "Week 1/Contest (Mar 11)/Association of Cats and Magical Lights"
+      link: https://open.kattis.com/problems/magicallights

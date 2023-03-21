@@ -134,6 +134,18 @@ problems:
       
     - path: "Week 2/Extra Practice Problems (Week 2)/2593: Find Score of an Array After Marking All Elements"
       link: https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
+      
+    - path: "Week 2/Extra Practice Problems (Week 2)/2596: Check Knight Tour Configuration"
+      link: https://leetcode.com/problems/check-knight-tour-configuration/
+      
+    - path: "Week 2/Extra Practice Problems (Week 2)/2594. Minimum Time to Repair Cars"
+      link: https://leetcode.com/problems/minimum-time-to-repair-cars/
+      
+    - path: "Week 2/Extra Practice Problems (Week 2)/2597: The Number of Beautiful Subsets"
+      link: https://leetcode.com/problems/the-number-of-beautiful-subsets/
+      
+    - path: "Week 2/Extra Practice Problems (Week 2)/2598: Smallest Missing Non-negative Integer After Operations"
+      link: https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"

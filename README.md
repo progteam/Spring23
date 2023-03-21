@@ -11,7 +11,7 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Mohammad Haroon|3|Rafael L.S. Reis|11|
+|🥇|Mohammad Haroon|5|Rafael L.S. Reis|11|
 |🥈|Elijah Kramer|3| | |
 |🥉|Joshua Rivera|2| | |
 |4|Anshu Patil|1| | |
@@ -23,6 +23,6 @@ Share your solutions with the Programming Team and earn points!
 |🥈|Anshu Patil|14|Rafael L.S. Reis|29|
 |🥉|Joshua Rivera|11|Judah Silva|7|
 |4|Alfredo Gunn|10|Jaden Keller|6|
-|5|Mohammad Haroon|8|Yuki Okamoto|3|
+|5|Mohammad Haroon|10|Yuki Okamoto|3|
 |6|Bryanna Dormer|4|Delight Lee|3|
 |7|Samuel Scott|4| | |

@@ -30,6 +30,12 @@ problems:
       
     - path: "Week 2/Contest (Mar 18)/Blueberry Waffle"
       link: https://open.kattis.com/problems/blueberrywaffle
+      
+    - path: "Week 2/Contest (Mar 20)/Stuck In A Time Loop"
+      link: https://open.kattis.com/problems/timeloop
+      
+    - path: "Week 2/Contest (Mar 20)/ABC"
+      link: https://open.kattis.com/problems/abc
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
@@ -70,6 +76,9 @@ problems:
       
     - path: "Week 2/Contest (Mar 18)/Okvir"
       link: https://open.kattis.com/problems/okvir
+      
+    - path: "Week 2/Contest (Mar 20)/Sun and Moon"
+      link: https://open.kattis.com/problems/sunandmoon
     
   medium:
     - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"
@@ -104,6 +113,9 @@ problems:
       
     - path: "Week 2/Contest (Mar 18)/Anthony and Diablo"
       link: https://open.kattis.com/problems/anthonyanddiablo
+      
+    - path: "Week 2/Contest (Mar 20)/Tournament Seeding"
+      link: https://open.kattis.com/problems/tournamentseeding
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"

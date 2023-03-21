@@ -36,6 +36,15 @@ problems:
       
     - path: "Week 2/Contest (Mar 20)/ABC"
       link: https://open.kattis.com/problems/abc
+      
+    - path: "Week 2/Weekly Practice Problems (Week 2)/2520: Count the Digits That Divide a Number"
+      link: https://leetcode.com/problems/count-the-digits-that-divide-a-number
+      
+    - path: "Week 2/Weekly Practice Problems (Week 2)/1688: Count of Matches in Tournament"
+      link: https://leetcode.com/problems/count-of-matches-in-tournament
+      
+    - path: "Week 2/Weekly Practice Problems (Week 2)/2595: Number of Even and Odd Bits"
+      link: https://leetcode.com/problems/number-of-even-and-odd-bits/
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
@@ -79,6 +88,9 @@ problems:
       
     - path: "Week 2/Contest (Mar 20)/Sun and Moon"
       link: https://open.kattis.com/problems/sunandmoon
+      
+    - path: "Week 2/Weekly Practice Problems (Week 2)/2553: Separate the Digits in an Array"
+      link: https://leetcode.com/problems/separate-the-digits-in-an-array/
     
   medium:
     - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"
@@ -116,6 +128,12 @@ problems:
       
     - path: "Week 2/Contest (Mar 20)/Tournament Seeding"
       link: https://open.kattis.com/problems/tournamentseeding
+      
+    - path: "Week 2/Extra Practice Problems (Week 2)/2592: Maximize Greatness of an Array"
+      link: https://leetcode.com/problems/maximize-greatness-of-an-array/
+      
+    - path: "Week 2/Extra Practice Problems (Week 2)/2593: Find Score of an Array After Marking All Elements"
+      link: https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"

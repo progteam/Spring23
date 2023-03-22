@@ -12,7 +12,7 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Mohammad Haroon|6|Rafael L.S. Reis|17|
-|🥈|Elijah Kramer|3|Dominic Sagen|6|
+|🥈|Elijah Kramer|3|Dominic Sagen|12|
 |🥉|Joshua Rivera|2| | |
 |4|Samuel Scott|2| | |
 |5|Anshu Patil|1| | |
@@ -20,7 +20,7 @@ Share your solutions with the Programming Team and earn points!
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Elijah Kramer|31|Dominic Sagen|90|
+|🥇|Elijah Kramer|31|Dominic Sagen|96|
 |🥈|Anshu Patil|14|Rafael L.S. Reis|35|
 |🥉|Joshua Rivera|11|Judah Silva|7|
 |4|Mohammad Haroon|11|Jaden Keller|6|

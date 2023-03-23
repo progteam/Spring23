@@ -23,7 +23,7 @@ Share your solutions with the Programming Team and earn points!
 |🥇|Elijah Kramer|38|Dominic Sagen|150|
 |🥈|Anshu Patil|14|Rafael L.S. Reis|35|
 |🥉|Joshua Rivera|11|Judah Silva|7|
-|4|Mohammad Haroon|11|Jaden Keller|6|
-|5|Alfredo Gunn|10|Yuki Okamoto|3|
+|4|Alfredo Gunn|11|Jaden Keller|6|
+|5|Mohammad Haroon|11|Yuki Okamoto|3|
 |6|Samuel Scott|6|Delight Lee|3|
 |7|Bryanna Dormer|4| | |

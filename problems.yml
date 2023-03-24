@@ -77,9 +77,6 @@ problems:
     - path: "Week 2/Contest (Mar 18)/Identifying Map Tiles"
       link: https://open.kattis.com/problems/maptiles2
       
-    - path: "Week 2/Contest (Mar 18)/Even Up Solitaire"
-      link: https://open.kattis.com/problems/evenup
-      
     - path: "Week 2/Contest (Mar 18)/Pig Latin"
       link: https://open.kattis.com/problems/piglatin
       
@@ -113,6 +110,9 @@ problems:
 
     - path: "Week 1/Contest (Mar 11)/Secret Message"
       link: https://open.kattis.com/problems/secretmessage
+      
+    - path: "Week 2/Contest (Mar 18)/Even Up Solitaire"
+      link: https://open.kattis.com/problems/evenup
       
     - path: "Week 2/Contest (Mar 18)/Tour De France"
       link: https://open.kattis.com/problems/tourdefrance

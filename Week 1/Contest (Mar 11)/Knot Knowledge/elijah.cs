@@ -6,10 +6,15 @@ static class App
     static void Main()
     {
         Console.ReadLine();
-        int[] needed = Console.ReadLine().Split(' ').Select(o => int.Parse(o)).ToArray();
-        int[] known = Console.ReadLine().Split(' ').Select(o => int.Parse(o)).ToArray();
-        int[] remaining = needed.Where(o => !known.Any(o2 => o2 == o)).ToArray();
         
-        Console.WriteLine(remaining[0]);
+        var needed = Console.ReadLine()
+            .Split(' ')
+            .Select(o => int.Parse(o));
+        
+        var known = Console.ReadLine()
+            .Split(' ')
+            .Select(o => int.Parse(o));
+        
+        Console.WriteLine(needed.First(o => !known.Any(o2 => o2 == o)));
     }
 }

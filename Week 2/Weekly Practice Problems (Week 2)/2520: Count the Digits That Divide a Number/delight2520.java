@@ -1,3 +1,4 @@
+/*Solution 1 using String*/
 class Solution {
     public int countDigits(int num) {
         String n = Integer.toString(num);
@@ -10,3 +11,19 @@ class Solution {
         return total;
     }
 }
+/*Solution 2 using int*/
+/*
+class Solution {
+    public int countDigits(int num) {
+        int total = 0;
+        int n = num;
+        while(n>0){
+            if(num % (n%10) == 0){
+                total++;
+            } 
+            n/=10;
+        }
+        return total;
+    }
+}
+*/

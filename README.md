@@ -12,6 +12,7 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Anshu Patil|2|Delight Lee|5|
+|🥈| | |Efrain Amezcua|2|
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
@@ -22,4 +23,4 @@ Share your solutions with the Programming Team and earn points!
 |4|Alfredo Gunn|11|Delight Lee|8|
 |5|Mohammad Haroon|11|Judah Silva|7|
 |6|Samuel Scott|7|Yuki Okamoto|3|
-|7|Bryanna Dormer|4| | |
+|7|Bryanna Dormer|4|Efrain Amezcua|2|

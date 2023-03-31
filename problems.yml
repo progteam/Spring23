@@ -89,6 +89,9 @@ problems:
     - path: "Week 2/Weekly Practice Problems (Week 2)/2553: Separate the Digits in an Array"
       link: https://leetcode.com/problems/separate-the-digits-in-an-array/
     
+    - path: "Week 3/Weekly Practice Problems (Week 3)/0278: First Bad Version"
+      link: https://leetcode.com/problems/first-bad-version/
+    
   medium:
     - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"
       link: https://leetcode.com/problems/next-greater-element-ii/

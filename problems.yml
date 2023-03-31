@@ -159,3 +159,6 @@ problems:
       
     - path: "Week 2/Contest (Mar 18)/Rock Climbing"
       link: https://open.kattis.com/problems/rockclimbing
+      
+    - path: "Week 3/Extra Practice Problems (Week 3)/0087: Scramble String"
+      link: https://leetcode.com/problems/scramble-string

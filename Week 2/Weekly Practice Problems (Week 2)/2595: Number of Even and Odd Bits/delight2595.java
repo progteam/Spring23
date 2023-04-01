@@ -1,4 +1,24 @@
-/*Solution 1*/
+/*Solution using int*/
+class Solution {
+    public int[] evenOddBit(int n) {
+        int num = n;
+        int even = 0, odd = 0;
+        for(int i = 0; num > 0; i++){
+            if(num % 2 == 1){
+                if(i % 2 == 0){
+                    even++;
+                }else{
+                    odd++;
+                }
+            }
+            num /= 2;
+        }
+        int[] answer = {even, odd};
+        return answer;
+    }
+}
+/*Solution 1 using String*/
+/*
 class Solution {
     public int[] evenOddBit(int n) {
         int even = 0, odd = 0;
@@ -17,6 +37,8 @@ class Solution {
         return answer;
     }
 }
+*/
+
 /*Solution 2*/
 /*
 public int[] evenOddBit(int n) {

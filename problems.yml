@@ -91,6 +91,18 @@ problems:
     
     - path: "Week 3/Weekly Practice Problems (Week 3)/0278: First Bad Version"
       link: https://leetcode.com/problems/first-bad-version/
+      
+    - path: "Week 4/Contest (Apr 3)/Flip Flow"
+      link: https://open.kattis.com/problems/flipflow
+      
+    - path: "Week 4/Contest (Apr 3)/Tajna"
+      link: https://open.kattis.com/problems/tajna
+      
+    - path: "Week 4/Contest (Apr 3)/Shopping List (Easy)"
+      link: https://open.kattis.com/problems/shoppinglisteasy
+      
+    - path: "Week 4/Contest (Apr 3)/Hot Hike"
+      link: https://open.kattis.com/problems/hothike
     
   medium:
     - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"
@@ -149,6 +161,9 @@ problems:
       
     - path: "Week 2/Extra Practice Problems (Week 2)/2598: Smallest Missing Non-negative Integer After Operations"
       link: https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
+      
+    - path: "Week 4/Contest (Apr 3)/Tic-Tac State"
+      link: https://open.kattis.com/problems/tictacstate
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"

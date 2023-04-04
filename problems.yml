@@ -164,6 +164,12 @@ problems:
       
     - path: "Week 4/Contest (Apr 3)/Tic-Tac State"
       link: https://open.kattis.com/problems/tictacstate
+      
+    - path: "Week 4/Extra Practice Problems (Week 4)/2405: Optimal Partition of String"
+      link: https://leetcode.com/problems/optimal-partition-of-string/
+    
+    - path: "Week 4/Extra Practice Problems (Week 4)/0881: Boats to Save People"
+      link: https://leetcode.com/problems/boats-to-save-people/
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"

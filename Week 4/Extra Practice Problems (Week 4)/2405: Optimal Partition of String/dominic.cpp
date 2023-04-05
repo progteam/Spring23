@@ -5,7 +5,7 @@ public:
         int n = 0;
         int res = 1;
         for (char &c : s) {
-            int curr = (2 << (c-'a'));
+            int curr = (1 << (c-'a'));
             if (n & curr) {
                 n = 0;
                 res++;

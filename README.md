@@ -11,12 +11,12 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Elijah Kramer|14|Dominic Sagen|20|
+|🥇|Elijah Kramer|14|Dominic Sagen|40|
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Elijah Kramer|52|Dominic Sagen|174|
+|🥇|Elijah Kramer|52|Dominic Sagen|194|
 |🥈|Anshu Patil|18|Rafael L.S. Reis|35|
 |🥉|Joshua Rivera|11|Jaden Keller|18|
 |4|Alfredo Gunn|11|Delight Lee|8|

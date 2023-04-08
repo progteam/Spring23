@@ -12,13 +12,13 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|14|Dominic Sagen|40|
-|🥈| | |Delight Lee|2|
+|🥈|Anshu Patil|2|Delight Lee|2|
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|52|Dominic Sagen|194|
-|🥈|Anshu Patil|18|Rafael L.S. Reis|35|
+|🥈|Anshu Patil|20|Rafael L.S. Reis|35|
 |🥉|Joshua Rivera|11|Jaden Keller|18|
 |4|Alfredo Gunn|11|Delight Lee|10|
 |5|Mohammad Haroon|11|Judah Silva|7|

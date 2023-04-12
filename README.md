@@ -11,9 +11,7 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Elijah Kramer|14|Dominic Sagen|40|
-|🥈|Anshu Patil|2|Delight Lee|2|
-|🥉| | |Judah Silva|2|
+
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|

@@ -169,7 +169,10 @@ problems:
       link: https://leetcode.com/problems/optimal-partition-of-string/
     
     - path: "Week 4/Extra Practice Problems (Week 4)/0881: Boats to Save People"
-      link: https://leetcode.com/problems/boats-to-save-people/
+      link: https://leetcode.com/problems/boats-to-save-people
+      
+    - path: "Week 5/Contest (Apr 8)/Doubleplusgood"
+      link: https://open.kattis.com/problems/doubleplusgood
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"

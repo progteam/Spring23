@@ -11,7 +11,7 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Ethan Bleier|1| | |
+|🥇|Ethan Bleier|2| | |
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
@@ -23,4 +23,4 @@ Share your solutions with the Programming Team and earn points!
 |5|Mohammad Haroon|11|Judah Silva|9|
 |6|Samuel Scott|7|Yuki Okamoto|3|
 |7|Bryanna Dormer|4|Efrain Amezcua|2|
-|8|Ethan Bleier|1| | |
+|8|Ethan Bleier|2| | |

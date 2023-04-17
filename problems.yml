@@ -45,6 +45,12 @@ problems:
       
     - path: "Week 2/Weekly Practice Problems (Week 2)/2595: Number of Even and Odd Bits"
       link: https://leetcode.com/problems/number-of-even-and-odd-bits/
+      
+    - path: "Week 6/Contest (Apr 17)/Finding An A"
+      link: https://open.kattis.com/problems/findingana
+      
+    - path: "Week 6/Contest (Apr 17)/Cold-puter Science"
+      link: https://open.kattis.com/problems/cold
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
@@ -103,6 +109,9 @@ problems:
       
     - path: "Week 4/Contest (Apr 3)/Hot Hike"
       link: https://open.kattis.com/problems/hothike
+      
+    - path: "Week 6/Contest (Apr 17)/Fading Wind"
+      link: https://open.kattis.com/problems/fadingwind
     
   medium:
     - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"
@@ -173,6 +182,12 @@ problems:
       
     - path: "Week 5/Contest (Apr 8)/Doubleplusgood"
       link: https://open.kattis.com/problems/doubleplusgood
+      
+    - path: "Week 6/Contest (Apr 17)/Careful Ascent"
+      link: https://open.kattis.com/problems/carefulascent
+      
+    - path: "Week 6/Contest (Apr 17)/Disastrous Downtime"
+      link: https://open.kattis.com/problems/downtime
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"

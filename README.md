@@ -12,6 +12,7 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Samuel Scott|2|Judah Silva|2|
+|🥈|Ethan Bleier|1| | |
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
@@ -23,4 +24,4 @@ Share your solutions with the Programming Team and earn points!
 |5|Mohammad Haroon|11|Delight Lee|10|
 |6|Samuel Scott|9|Yuki Okamoto|3|
 |7|Bryanna Dormer|4|Efrain Amezcua|2|
-|8|Ethan Bleier|2| | |
+|8|Ethan Bleier|3| | |

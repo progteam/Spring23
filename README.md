@@ -13,12 +13,13 @@ Share your solutions with the Programming Team and earn points!
 |-------|-------|-------|-------|-------|
 |🥇|Samuel Scott|2|Judah Silva|2|
 |🥈|Ethan Bleier|1| | |
+|🥉|Anshu Patil|1| | |
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|52|Dominic Sagen|194|
-|🥈|Anshu Patil|20|Rafael L.S. Reis|35|
+|🥈|Anshu Patil|21|Rafael L.S. Reis|35|
 |🥉|Joshua Rivera|11|Jaden Keller|18|
 |4|Alfredo Gunn|11|Judah Silva|17|
 |5|Mohammad Haroon|11|Delight Lee|10|

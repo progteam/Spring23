@@ -51,6 +51,9 @@ problems:
       
     - path: "Week 6/Contest (Apr 17)/Cold-puter Science"
       link: https://open.kattis.com/problems/cold
+      
+    - path: "Week 6/Weekly Practice Problems (Week 6)/2643: Row With Maximum Ones"
+      link: https://leetcode.com/problems/row-with-maximum-ones/
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"

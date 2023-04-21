@@ -1,4 +1,21 @@
+/*Solution using bitwise shift*/
+class Solution {
+    public int[] evenOddBit(int n) {
+        int num = n;
+        int[] answer = {0, 0};
+        int temp;
+        for(int i = 0; num > 0; i++){
+            if((num & 1) == 1){
+                answer[i%2]++;
+            }
+            num = num >>> 1;
+        }
+        return answer;
+    }
+}
+
 /*Solution using int*/
+/*
 class Solution {
     public int[] evenOddBit(int n) {
         int num = n;
@@ -17,7 +34,9 @@ class Solution {
         return answer;
     }
 }
-/*Solution 1 using String*/
+*/
+
+/*Solution using String*/
 /*
 class Solution {
     public int[] evenOddBit(int n) {
@@ -39,7 +58,7 @@ class Solution {
 }
 */
 
-/*Solution 2*/
+/*Best Solution using Integer.bitCount*/
 /*
 public int[] evenOddBit(int n) {
     return new int[] {Integer.bitCount(n & 0b0101010101), 

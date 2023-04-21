@@ -12,8 +12,8 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|14|Judah Silva|2|
-|🥈|Samuel Scott|2|Delight Lee|2|
-|🥉|Ethan Bleier|2| | |
+|🥈|Ethan Bleier|4|Delight Lee|2|
+|🥉|Samuel Scott|2| | |
 |4|Anshu Patil|1| | |
 
 ### 🏁 Overall Scoreboard 🏁
@@ -25,5 +25,5 @@ Share your solutions with the Programming Team and earn points!
 |4|Alfredo Gunn|11|Judah Silva|17|
 |5|Mohammad Haroon|11|Delight Lee|12|
 |6|Samuel Scott|9|Yuki Okamoto|3|
-|7|Bryanna Dormer|4|Efrain Amezcua|2|
-|8|Ethan Bleier|4| | |
+|7|Ethan Bleier|6|Efrain Amezcua|2|
+|8|Bryanna Dormer|4| | |

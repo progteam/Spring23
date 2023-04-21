@@ -115,6 +115,12 @@ problems:
       
     - path: "Week 6/Contest (Apr 17)/Fading Wind"
       link: https://open.kattis.com/problems/fadingwind
+      
+    - path: "Week 6/Weekly Practice Problems (Week 6)/2644: Find the Maximum Divisibility Score"
+      link: https://leetcode.com/problems/find-the-maximum-divisibility-score/
+      
+    - path: "Week 6/Weekly Practice Problems (Week 6)/2639: Find the Width of Columns of a Grid"
+      link: https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
     
   medium:
     - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"
@@ -191,6 +197,9 @@ problems:
       
     - path: "Week 6/Contest (Apr 17)/Disastrous Downtime"
       link: https://open.kattis.com/problems/downtime
+      
+    - path: "Week 6/Extra Practice Problems (Week 6)/2645: Minimum Additions to Make Valid String"
+      link: https://leetcode.com/problems/minimum-additions-to-make-valid-string/
 
   hard:
     - path: "Week 1/Contest (Mar 11)/Road To Savings"
@@ -204,3 +213,9 @@ problems:
       
     - path: "Week 3/Extra Practice Problems (Week 3)/0087: Scramble String"
       link: https://leetcode.com/problems/scramble-string
+      
+    - path: "Week 6/Extra Practice Problems (Week 6)/0879: Profitable Schemes"
+      link: https://leetcode.com/problems/profitable-schemes/
+      
+    - path: "Week 6/Extra Practice Problems (Week 6)/2646: Minimize the Total Price of the Trips"
+      link: https://leetcode.com/problems/minimize-the-total-price-of-the-trips/

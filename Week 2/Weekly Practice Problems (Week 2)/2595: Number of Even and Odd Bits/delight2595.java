@@ -2,18 +2,14 @@
 class Solution {
     public int[] evenOddBit(int n) {
         int num = n;
-        int even = 0, odd = 0;
+        int[] answer = {0, 0};
+        int temp;
         for(int i = 0; num > 0; i++){
             if((num & 1) == 1){
-                if(i % 2 == 0){
-                    even++;
-                }else{
-                    odd++;
-                }
+                answer[i%2]++;
             }
             num = num >>> 1;
         }
-        int[] answer = {even, odd};
         return answer;
     }
 }

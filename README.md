@@ -11,8 +11,8 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Elijah Kramer|14|Delight Lee|3|
-|🥈|Ethan Bleier|13|Judah Silva|2|
+|🥇|Ethan Bleier|15|Delight Lee|3|
+|🥈|Elijah Kramer|14|Judah Silva|2|
 |🥉|Samuel Scott|2| | |
 |4|Anshu Patil|1| | |
 
@@ -21,7 +21,7 @@ Share your solutions with the Programming Team and earn points!
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|66|Dominic Sagen|194|
 |🥈|Anshu Patil|21|Rafael L.S. Reis|35|
-|🥉|Ethan Bleier|15|Jaden Keller|18|
+|🥉|Ethan Bleier|17|Jaden Keller|18|
 |4|Joshua Rivera|11|Judah Silva|17|
 |5|Alfredo Gunn|11|Delight Lee|13|
 |6|Mohammad Haroon|11|Yuki Okamoto|3|

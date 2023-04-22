@@ -12,7 +12,7 @@ Share your solutions with the Programming Team and earn points!
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
 |🥇|Elijah Kramer|14|Delight Lee|3|
-|🥈|Ethan Bleier|7|Judah Silva|2|
+|🥈|Ethan Bleier|8|Judah Silva|2|
 |🥉|Samuel Scott|2| | |
 |4|Anshu Patil|1| | |
 
@@ -24,6 +24,6 @@ Share your solutions with the Programming Team and earn points!
 |🥉|Joshua Rivera|11|Jaden Keller|18|
 |4|Alfredo Gunn|11|Judah Silva|17|
 |5|Mohammad Haroon|11|Delight Lee|13|
-|6|Samuel Scott|9|Yuki Okamoto|3|
-|7|Ethan Bleier|9|Efrain Amezcua|2|
+|6|Ethan Bleier|10|Yuki Okamoto|3|
+|7|Samuel Scott|9|Efrain Amezcua|2|
 |8|Bryanna Dormer|4| | |

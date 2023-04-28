@@ -54,6 +54,12 @@ problems:
       
     - path: "Week 6/Weekly Practice Problems (Week 6)/2643: Row With Maximum Ones"
       link: https://leetcode.com/problems/row-with-maximum-ones/
+      
+    - path: "Week 7/Weekly Practice Problems (Week 7)/2651: Calculate Delayed Arrival Time
+      link: https://leetcode.com/problems/calculate-delayed-arrival-time/
+      
+    - path: "Week 7/Weekly Practice Problems (Week 7)/2652: Sum Multiples
+      link: https://leetcode.com/problems/sum-multiples/
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"
@@ -121,6 +127,12 @@ problems:
       
     - path: "Week 6/Weekly Practice Problems (Week 6)/2639: Find the Width of Columns of a Grid"
       link: https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
+      
+    - path: "Week 7/Weekly Practice Problems (Week 7)/1046: Last Stone Weight
+      link: https://leetcode.com/problems/last-stone-weight/
+      
+    - path: "Week 7/Weekly Practice Problems (Week 7)/2558: Take Gifts From the Richest Pile
+      link: https://leetcode.com/problems/take-gifts-from-the-richest-pile/
     
   medium:
     - path: "Week 1/Extra Practice Problems (Week 1)/0503: Next Greater Element II"

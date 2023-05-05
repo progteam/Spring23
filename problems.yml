@@ -60,6 +60,9 @@ problems:
       
     - path: "Week 7/Weekly Practice Problems (Week 7)/2652: Sum Multiples"
       link: https://leetcode.com/problems/sum-multiples/
+      
+    - path: "Week 8/Weekly Practice Problems (Week 8)/0292: Nim Game"
+      link: https://leetcode.com/problems/sum-multiples/
   
   easy:
     - path: "Week 1/Contest (Mar 11)/Knot Knowledge"

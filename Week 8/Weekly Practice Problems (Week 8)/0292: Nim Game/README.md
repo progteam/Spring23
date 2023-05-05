@@ -1,3 +1,3 @@
-# [0292: Nim Game](https://leetcode.com/problems/sum-multiples/)
+# [0292: Nim Game](https://leetcode.com/problems/nim-game/)
 - Difficulty: trivial (1 pt)
         

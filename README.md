@@ -11,7 +11,7 @@ Share your solutions with the Programming Team and earn points!
 ### ✨ Weekly Scoreboard ✨
 | |Apprentice|Points|Specialist|Points|
 |-------|-------|-------|-------|-------|
-|🥇|Elijah Kramer|11| | |
+
 
 ### 🏁 Overall Scoreboard 🏁
 | |Apprentice|Points|Specialist|Points|
